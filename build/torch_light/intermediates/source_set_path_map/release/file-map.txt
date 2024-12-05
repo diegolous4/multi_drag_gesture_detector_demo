@@ -1,0 +1,12 @@
+com.svprdga.torchlight.torch_light-core-1.6.0-0 /Users/diego/.gradle/caches/transforms-3/284a410c767ad6c7a2b0ffc8d8d85981/transformed/core-1.6.0/res
+com.svprdga.torchlight.torch_light-jetified-window-java-1.0.0-beta04-1 /Users/diego/.gradle/caches/transforms-3/2a215381204751055df81b6269e717b7/transformed/jetified-window-java-1.0.0-beta04/res
+com.svprdga.torchlight.torch_light-jetified-annotation-experimental-1.1.0-2 /Users/diego/.gradle/caches/transforms-3/3d2f03fc996c2e0aa3dee5cfa3002cd1/transformed/jetified-annotation-experimental-1.1.0/res
+com.svprdga.torchlight.torch_light-jetified-window-1.0.0-beta04-3 /Users/diego/.gradle/caches/transforms-3/f302e75fb7efd781bcf1a29281c188da/transformed/jetified-window-1.0.0-beta04/res
+com.svprdga.torchlight.torch_light-main-4 /Users/diego/.pub-cache/hosted/pub.dev/torch_light-1.1.0/android/src/main/res
+com.svprdga.torchlight.torch_light-release-5 /Users/diego/.pub-cache/hosted/pub.dev/torch_light-1.1.0/android/src/release/res
+com.svprdga.torchlight.torch_light-pngs-6 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/generated/res/pngs/release
+com.svprdga.torchlight.torch_light-resValues-7 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/generated/res/resValues/release
+com.svprdga.torchlight.torch_light-rs-8 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/generated/res/rs/release
+com.svprdga.torchlight.torch_light-mergeReleaseResources-9 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.svprdga.torchlight.torch_light-mergeReleaseResources-10 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.svprdga.torchlight.torch_light-merged_res-11 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/intermediates/merged_res/release

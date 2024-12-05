@@ -1,0 +1,1 @@
+ /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/.dart_tool/flutter_build/ef2073081f2debb4350893d0fe0ba02a/native_assets.yaml: 

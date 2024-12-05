@@ -1,0 +1,14 @@
+com.example.multi_drag_gesture_detector_demo.app-core-1.6.0-0 /Users/diego/.gradle/caches/transforms-3/284a410c767ad6c7a2b0ffc8d8d85981/transformed/core-1.6.0/res
+com.example.multi_drag_gesture_detector_demo.app-jetified-window-java-1.0.0-beta04-1 /Users/diego/.gradle/caches/transforms-3/2a215381204751055df81b6269e717b7/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.multi_drag_gesture_detector_demo.app-jetified-annotation-experimental-1.1.0-2 /Users/diego/.gradle/caches/transforms-3/3d2f03fc996c2e0aa3dee5cfa3002cd1/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.multi_drag_gesture_detector_demo.app-jetified-window-1.0.0-beta04-3 /Users/diego/.gradle/caches/transforms-3/f302e75fb7efd781bcf1a29281c188da/transformed/jetified-window-1.0.0-beta04/res
+com.example.multi_drag_gesture_detector_demo.app-main-4 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/android/app/src/main/res
+com.example.multi_drag_gesture_detector_demo.app-release-5 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/android/app/src/release/res
+com.example.multi_drag_gesture_detector_demo.app-pngs-6 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/generated/res/pngs/release
+com.example.multi_drag_gesture_detector_demo.app-resValues-7 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/generated/res/resValues/release
+com.example.multi_drag_gesture_detector_demo.app-rs-8 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/generated/res/rs/release
+com.example.multi_drag_gesture_detector_demo.app-mergeReleaseResources-9 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.multi_drag_gesture_detector_demo.app-mergeReleaseResources-10 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.multi_drag_gesture_detector_demo.app-merged_res-11 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/intermediates/merged_res/release
+com.example.multi_drag_gesture_detector_demo.app-packaged_res-12 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/sensors_plus/intermediates/packaged_res/release
+com.example.multi_drag_gesture_detector_demo.app-packaged_res-13 /Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/torch_light/intermediates/packaged_res/release

@@ -1,0 +1,4 @@
+#Thu Aug 01 01:37:07 CST 2024
+base.0=/Users/diego/Documents/proyects/flutter/work/multi_drag_gesture_detector_demo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
